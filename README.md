@@ -17,7 +17,7 @@ A hands-on repository documenting my journey bridging Classical AI/Data Science 
 
 ## 🛠️ Setup & Execution
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/quantum-ml-foundations.git
+git clone https://github.com/hemanth-eluri/Quantum-ML
 cd quantum-ml-foundations
 pip install -r requirements.txt
 jupyter notebook
